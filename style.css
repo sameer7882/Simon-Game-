@@ -1,0 +1,71 @@
+body{
+
+    background-color: black;
+}
+
+h1{
+
+    color: antiquewhite;
+    font-size: 2.5rem;
+    margin: auto;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+#message{
+
+    color: bisque;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.cont2{
+
+    margin: 70px auto;
+    position: absolute;
+    left: 650px;
+    display: inline-block;
+}
+
+.color{
+
+    margin: 10px 5px;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 10px;
+    box-shadow: 0 7px #666;
+}
+
+#red{
+
+    background-color: red;
+    border-color: red;
+}
+
+#blue{
+
+    background-color: blue;
+    border-color: blue;
+}
+
+#yellow{
+
+    background-color: yellow;
+    border-color: yellow;
+}
+
+#green{
+
+    background-color: green;
+    border-color: green;
+}
+
+button:active {
+
+    box-shadow: 0 5px black;
+    transform: translateY(4px);
+
+  }
