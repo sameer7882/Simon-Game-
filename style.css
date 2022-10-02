@@ -14,16 +14,13 @@ h1{
 }
 
 #message{
-
     color: bisque;
     font-size: 1.5rem;
     text-align: center;
     margin-top: 20px;
-
 }
 
 .cont2{
-
     margin: 70px auto;
     position: absolute;
     left: 650px;
@@ -31,7 +28,6 @@ h1{
 }
 
 .color{
-
     margin: 10px 5px;
     width: 7rem;
     height: 7rem;
@@ -39,32 +35,29 @@ h1{
     box-shadow: 0 7px #666;
 }
 
+/* for red box */
 #red{
-
     background-color: red;
     border-color: red;
 }
-
+/* for blue box  */
 #blue{
-
     background-color: blue;
     border-color: blue;
 }
-
+/* for yellow box */
 #yellow{
-
     background-color: yellow;
     border-color: yellow;
 }
-
+/* for green box */
 #green{
-
     background-color: green;
     border-color: green;
 }
 
+/* for button */
 button:active {
-
     box-shadow: 0 5px black;
     transform: translateY(4px);
 
